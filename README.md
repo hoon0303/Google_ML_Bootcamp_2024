@@ -4,9 +4,13 @@
 </div>
 
 ## Google ML Bootcamp 2024 Knowledge Repository
-Google Bootcamp 2024를 수료하며 MLB 회원들과 학습한 지식과 수행한 프로젝트를 모아둔 저장소입니다.
+Google ML Bootcamp 2024에 함께 참여한 MLB 회원들과 학습한 지식과 수행한 프로젝트를 소개하는 저장소입니다. <br>
 이 저장소는 학습한 내용을 정리하고, 수행한 프로젝트를 소개하기 위한 목적을 가지고 있습니다.
 
+이 저장소는 다음과 같은 내용을 포함하고 있습니다:
+- Coursera 학습한 내용의 정리
+- Kaggle 프로젝트의 개요, 소개
+- Gemma Sprint 프로젝트의 개요, 소개
 <div align=center>
 
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-40-green.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
