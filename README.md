@@ -19,7 +19,7 @@ https://readme-contributors.now.sh/hoon0303/Google_ML_Bootcamp_2024?extension=jp
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/LICENSE)
 
 <a href="https://github.com/JaeYeopHan/Interview_Question_for_Beginner/graphs/contributors"><img src="https://opencollective.com/interview_question_for_beginner/contributors.svg?width=720"></a>
-<a href="https://github.com/JaeYeopHan/Interview_Question_for_Beginner/graphs/contributors"><img src="https://readme-contributors.now.sh/hoon0303/Survey-Recommender?extension=jpg&width=400&aspectRatio=2"></a>
+<a href="https://github.com/hoon0303/Survey-Recommender/graphs/contributors"><img src="https://readme-contributors.now.sh/hoon0303/Survey-Recommender?extension=jpg&width=400&aspectRatio=2"></a>
 
 </div>
 
