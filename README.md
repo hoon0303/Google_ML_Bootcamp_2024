@@ -12,7 +12,7 @@ Google ML Bootcamp 2024 Knowledge Repository
 
 This project exists thanks to all the people who contribute.
 https://readme-contributors.now.sh/hoon0303/Google_ML_Bootcamp_2024?extension=jpg&width=400&aspectRatio=3
-![Contributors](https://readme-contributors.now.sh/hoon0303/Google_ML_Bootcamp_2024?extension=jpg&width=400&aspectRatio=3)
+
 <div align=center>
 
 [![CONTRIBUTORS](https://img.shields.io/badge/contributors-40-green.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
