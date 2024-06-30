@@ -7,7 +7,7 @@ Google ML Bootcamp 2024 Knowledge Repository
 
 </div>
 
-##  Contributions
+## Contributions
 
 This project exists thanks to all the people who contribute.
 
