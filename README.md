@@ -4,12 +4,8 @@
   <img src="/assets/img/Group.jpg" alt="Group Image" />
 </div>
 
-Google ML Bootcamp 2024 Knowledge Repository
+## Google ML Bootcamp 2024 Knowledge Repository
 
-
-## Contributions
-
-This project exists thanks to all the people who contribute.
 
 <div align=center>
 
