@@ -15,7 +15,7 @@
 
 </div>
 
-> 해당 Repository 에 기여를 해주신 분들입니다. 감사합니다. :pray:
+> 해당 Repository 에 기여를 해주신 분들입니다.
 
 </br>
 
