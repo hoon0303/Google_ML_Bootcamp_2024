@@ -1,6 +1,6 @@
 # Google ML Bootcamp 2024
 Google ML Bootcamp 2024 Knowledge Repository
-
+# Technical Interview Guidelines for beginners
 <div align=center>
 
 ![](/assets/img/Group.jpg)
