@@ -6,7 +6,7 @@ Google ML Bootcamp 2024 Knowledge Repository
 ![](/assets/img/Group.jpg)
 
 </div>
-
+# Technical Interview Guidelines for beginners
 ## Contributions
 
 This project exists thanks to all the people who contribute.
