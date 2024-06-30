@@ -1,4 +1,3 @@
-# Google ML Bootcamp 2024
 
 <div align="center">
   <img src="/assets/img/Group.jpg" alt="Group Image" />
