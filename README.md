@@ -7,6 +7,6 @@ Google ML Bootcamp 2024 Knowledge Repository
 
 <div align=center>
 
-![](/assets/img/Group 2.jpg)
+![](/assets/img/Group.jpg)
 
 </div>
