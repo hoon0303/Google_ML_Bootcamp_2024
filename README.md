@@ -11,7 +11,6 @@ Google ML Bootcamp 2024 Knowledge Repository
 ## Contributions
 
 This project exists thanks to all the people who contribute.
-https://readme-contributors.now.sh/hoon0303/Google_ML_Bootcamp_2024?extension=jpg&width=400&aspectRatio=3
 
 <div align=center>
 
