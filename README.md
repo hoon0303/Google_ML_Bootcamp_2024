@@ -5,7 +5,7 @@
 
 ## Google ML Bootcamp 2024 Knowledge Repository
 Google Bootcamp 2024를 수료하며 MLB 회원들과 학습한 지식과 수행한 프로젝트를 모아둔 저장소입니다.
-이 저장소는 학습한 내용을 정리하고, 수행한 프로젝트를 홍보하기 위한 목적을 가지고 있습니다.
+이 저장소는 학습한 내용을 정리하고, 수행한 프로젝트를 소개하기 위한 목적을 가지고 있습니다.
 
 <div align=center>
 
