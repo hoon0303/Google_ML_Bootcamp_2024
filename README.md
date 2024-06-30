@@ -2,8 +2,6 @@
 
 Google ML Bootcamp 2024 Knowledge Repository
 
-# Technical Interview Guidelines for beginners
-
 <div align="center">
   <img src="/assets/img/Group.jpg" alt="Group Image" />
 </div>
