@@ -25,3 +25,5 @@ This project exists thanks to all the people who contribute.
 > 해당 Repository 에 기여를 해주신 분들입니다. 감사합니다. :pray:
 
 </br>
+
+# Technical Interview Guidelines for beginners
