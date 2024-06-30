@@ -1,12 +1,11 @@
 # Google ML Bootcamp 2024
 
-Google ML Bootcamp 2024 Knowledge Repository
-
 <div align="center">
   <img src="/assets/img/Group.jpg" alt="Group Image" />
 </div>
 
-# Technical Interview Guidelines for beginners
+Google ML Bootcamp 2024 Knowledge Repository
+
 
 ## Contributions
 
