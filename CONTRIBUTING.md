@@ -21,9 +21,11 @@ $ cd Google_ML_Bootcamp_2024
 
 ### 3.Changes and Commit
 로컬에서 변경 사항을 적용하고 커밋합니다.
+```bash
 $ git add .
 $ git commit -m "Describe your changes"
 $ git push origin main
+```
 
 ### 4. Create a Pull Request
 GitHub 웹사이트로 이동하여 원본 저장소에 Pull Request를 생성합니다.
