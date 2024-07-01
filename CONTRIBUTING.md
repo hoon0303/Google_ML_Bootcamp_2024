@@ -14,5 +14,5 @@
 fork한 저장소를 로컬 디렉토리로 클론합니다.
 
 ```bash
-$ git clone https://github.com/your-username/Interview_Question_for_Beginner.git
-$ cd Interview_Question_for_Beginner
+$ git clone [fork Repository]
+$ cd Google_ML_Bootcamp_2024
