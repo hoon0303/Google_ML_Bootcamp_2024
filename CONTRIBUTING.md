@@ -15,8 +15,8 @@ fork한 저장소를 로컬 디렉토리로 클론합니다.
 
 ```bash
 # in your workspace
-$ git clone [fork Repository]
-$ cd Google_ML_Bootcamp_2024
+$ git clone [fork Repository URL]
+$ cd [forked Repository Name]
 ```
 
 ### 3.Changes and Commit
