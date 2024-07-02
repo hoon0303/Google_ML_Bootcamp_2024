@@ -1,9 +1,30 @@
 # Contributing to This Repository
 
+## How to Contributing
+<<<<<<< HEAD
+해당 Repository에 기여하는 방법을 소개합니다.
+
+### 
+Google Bootcamp 저장소에 대한 기여에 감사합니다. 저장소 및 개선의 기여는 언제나 환영입니다.
+
+coursera를 수강하면서 온라인 강의 및 프로그래밍 과제에서 공유하고 싶은 내용을 정리해서 올려주시면 됩니다.
+
+Kaggle 및 Sprint의 프로젝트 소개 및 홍보도 환영합니다.
 
 ## Process
+Pull Request Process
 
-해당 Repository에 기여하는 방법을 소개드립니다.
+=======
+Google Bootcamp 저장소에 대한 기여에 감사합니다. 저장소 기여 및 개선은 언제나 환영입니다.
+
+- coursera를 수강하면서 온라인 강의 및 프로그래밍 과제에서 공유하고 싶은 내용을 정리해서 올려주시면 됩니다.
+
+- Kaggle 및 Sprint의 프로젝트 소개 및 홍보도 환영합니다.
+
+
+## Process
+Pull Request Process
+>>>>>>> 206a158b2f385a7ad3d8dac198438268ba0cfa88
 
 ### 1. Fork the Repository
 
@@ -31,7 +52,7 @@ $ git push origin main
 GitHub 웹사이트로 이동하여 fork 저장소에 Pull Request를 생성합니다.
 `Pull Request`를 등록해주세요.
 
-### Optional. Resolve Conflict
+### *Optional. Resolve Conflict
 
 Pull Request 를 등록했는데, conflict 가 있어서 auto merge 가 안된다고 하는 경우 해당 conflict 를 해결해주세요.
 
