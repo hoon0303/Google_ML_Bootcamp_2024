@@ -37,7 +37,7 @@ $ git push origin main
 GitHub 웹사이트로 이동하여 fork 저장소에 Pull Request를 생성합니다.
 `Pull Request`를 등록해주세요.
 
-### Optional. Resolve Conflict
+### *Optional. Resolve Conflict
 
 Pull Request 를 등록했는데, conflict 가 있어서 auto merge 가 안된다고 하는 경우 해당 conflict 를 해결해주세요.
 
