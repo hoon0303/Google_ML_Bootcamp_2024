@@ -1,9 +1,7 @@
 # Contributing to This Repository
 
 ## How to Contributing
-해당 Repository에 기여하는 방법을 소개합니다.
-
-- Google Bootcamp 저장소에 대한 기여에 감사합니다. 저장소 및 개선의 기여는 언제나 환영입니다.
+Google Bootcamp 저장소에 대한 기여에 감사합니다. 저장소 및 개선의 기여는 언제나 환영입니다.
 
 - coursera를 수강하면서 온라인 강의 및 프로그래밍 과제에서 공유하고 싶은 내용을 정리해서 올려주시면 됩니다.
 
