@@ -1,7 +1,6 @@
 # Contributing to This Repository
 
 ## How to Contributing
-<<<<<<< HEAD
 해당 Repository에 기여하는 방법을 소개합니다.
 
 ### 
