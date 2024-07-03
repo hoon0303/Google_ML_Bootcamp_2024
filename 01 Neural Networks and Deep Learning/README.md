@@ -34,6 +34,7 @@
 
 - **로지스틱 회귀**: 이진 분류를 위한 통계적 모델.
 - **시그모이드 함수**: 출력값을 0과 1 사이로 변환. \( \sigma(z) = \frac{1}{1 + e^{-z}} \), where \( z = w^T x + b \).
+- <img src="https://latex.codecogs.com/png.latex?\dpi{300}&space;\sigma(z)&space;=&space;\frac{1}{1&space;&plus;&space;e^{-z}},&space;\text{where}&space;z&space;=&space;w^T&space;x&space;&plus;&space;b" alt="로지스틱 회귀의 시그모이드 함수">
 
 ## 로지스틱 회귀 비용 함수
 
