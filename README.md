@@ -15,7 +15,7 @@ Google ML Bootcamp 2024에 함께 참여한 MLB 회원들과 학습한 지식과
 <div align=center>
 
 
-<a href="https://github.com/hoon0303/Survey-Recommender/graphs/contributors"><img src="https://readme-contributors.now.sh/hoon0303/Survey-Recommender?extension=jpg&width=400&aspectRatio=2"></a>
+<a href="https://github.com/hoon0303/Google_ML_Bootcamp_2024/graphs/contributors"><img src="https://readme-contributors.now.sh/hoon0303/Survey-Recommender?extension=jpg&width=400&aspectRatio=2"></a>
 
 </div>
 
