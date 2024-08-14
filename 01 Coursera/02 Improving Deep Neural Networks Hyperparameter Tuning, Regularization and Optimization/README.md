@@ -4,18 +4,13 @@ This is the second course of the deep learning specialization at [Coursera](http
 
 ## Course summary
 
-Here are the course summary as its given on the course [link](https://www.coursera.org/learn/deep-neural-network):
+This course offers an in-depth exploration of key principles in deep learning:
 
-> This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow. 
->
-> After 3 weeks, you will: 
-> - Understand industry best-practices for building deep learning applications. 
-> - Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking, 
-> - Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence. 
-> - Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
-> - Be able to implement a neural network in TensorFlow. 
->
-> This is the second course of the Deep Learning Specialization.
+- Gain an understanding of industry best practices for developing deep learning applications.
+- Master essential neural network techniques, including initialization, L2 and dropout regularization, Batch normalization, and gradient checking.
+- Learn how to implement and apply various optimization algorithms like mini-batch gradient descent, Momentum, RMSprop, and Adam, along with methods to ensure their convergence.
+- Understand the latest practices in setting up train/dev/test sets and performing bias/variance analysis in the deep learning era.
+- Be able to implement neural networks using TensorFlow.
 
 ## Table of contents
 

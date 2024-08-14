@@ -3,16 +3,12 @@
 This is the fifth and final course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [deeplearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.
 
 ## Course summary
-Here are the course summary as its given on the course [link](https://www.coursera.org/learn/nlp-sequence-models):
+This course delves into the construction of models for natural language, audio, and other sequence data, leveraging the power of deep learning:
 
-> This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others. 
->
-> You will:
-> - Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
-> - Be able to apply sequence models to natural language problems, including text synthesis. 
-> - Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
->
-> This is the fifth and final course of the Deep Learning Specialization.
+- Understand how to build and train Recurrent Neural Networks (RNNs), along with popular variants like GRUs and LSTMs.
+- Be equipped to apply sequence models to natural language tasks, including text synthesis.
+- Learn how to apply sequence models to audio tasks, including speech recognition and music synthesis.
+
 
 ## Table of contents
 
