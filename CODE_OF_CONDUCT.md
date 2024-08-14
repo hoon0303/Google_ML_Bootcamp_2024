@@ -1,128 +1,61 @@
-# Contributor Covenant Code of Conduct
+# Contributing to This Repository
 
-## Our Pledge
+## How to Contributing
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+### 
+Google Bootcamp 저장소에 대한 기여에 감사합니다. 저장소 및 개선의 기여는 언제나 환영입니다.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+- coursera를 수강하면서 온라인 강의 및 프로그래밍 과제에서 공유하고 싶은 내용을 정리해서 올려주시면 됩니다.
 
-## Our Standards
+- Kaggle 및 Sprint의 프로젝트 소개 및 홍보도 환영합니다.
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+## Process
+Google Bootcamp 저장소에 대한 기여에 감사합니다. 저장소 기여 및 개선은 언제나 환영입니다.
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+- coursera를 수강하면서 온라인 강의 및 프로그래밍 과제에서 공유하고 싶은 내용을 정리해서 올려주시면 됩니다.
 
-Examples of unacceptable behavior include:
+- Kaggle 및 Sprint의 프로젝트 소개 및 홍보도 환영합니다.
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
 
-## Enforcement Responsibilities
+## Process
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+### 1. Fork the Repository
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+이 저장소를 자신의 GitHub 계정으로 fork합니다.
 
-## Scope
+### 2. Clone the Forked Repository
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+fork한 저장소를 로컬 디렉토리로 클론합니다.
 
-## Enforcement
+```bash
+# in your workspace
+$ git clone [fork Repository URL]
+$ cd [forked Repository Name]
+```
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-.
-All complaints will be reviewed and investigated promptly and fairly.
+### 3.Changes and Commit
+로컬에서 변경 사항을 적용하고 커밋합니다.
+```bash
+$ git add .
+$ git commit -m "Describe your changes"
+$ git push origin main
+```
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+### 4. Create a Pull Request
+GitHub 웹사이트로 이동하여 fork 저장소에 Pull Request를 생성합니다.
+`Pull Request`를 등록해주세요.
 
-## Enforcement Guidelines
+### *Optional. Resolve Conflict
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Pull Request 를 등록했는데, conflict 가 있어서 auto merge 가 안된다고 하는 경우 해당 conflict 를 해결해주세요.
 
-### 1. Correction
+```bash
+# in Interview_Question_for_Beginner
+$ git remote add --track main upstream https://github.com/hoon0303/Google_ML_Bootcamp_2024.git
+$ git fetch upstream
+$ git rebase upstream/main
+# (resolve conflict in your editor)
+$ git add .
+$ git rebase --continue
+$ git push -f origin main
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
-
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
-
-### 2. Warning
-
-**Community Impact**: A violation through a single incident or series
-of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
-
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
