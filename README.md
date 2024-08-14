@@ -32,7 +32,7 @@ Google ML Bootcamp 2024에 함께 참여한 MLB 회원들과 학습한 지식과
   - [Convolutional Neural Networks](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/04%20Convolutional%20Neural%20Networks)
   - [Sequence Models](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/05%20Sequence%20Models)
 - Part 2. Kaggle
-  - Project
+  - Binary Classification of Insurance Cross Selling (Playground Series S4E7) Top 1%
 - Part 3. Gemma Sprint
   - Project
 
