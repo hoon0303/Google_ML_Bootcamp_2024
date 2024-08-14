@@ -13,7 +13,7 @@ This course serves as an introduction to deep learning. You will learn:
 ## Table of contents
 
 
-* [Introduction to deep learning](#introduction-to-deep-learning)
+* [Introduction to Deep Learning](#introduction-to-deep-learning)
    * [What is a (Neural Network) NN?](#what-is-a-neural-network-nn)
    * [Supervised learning with neural networks](#supervised-learning-with-neural-networks)
    * [Why is deep learning taking off?](#why-is-deep-learning-taking-off)
