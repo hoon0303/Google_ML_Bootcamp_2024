@@ -57,7 +57,7 @@ We experimented with a variety of machine learning models:
 We evaluated the performance of each model using the **ROC AUC** score as the primary metric. To ensure that our models generalized well to unseen data, we utilized **K-fold cross-validation**. This approach effectively prevented overfitting and provided a robust evaluation of the model's performance. After comparing various models, **CatBoost** and **XGBoost** showed the best performance. These models were further fine-tuned through hyperparameter optimization and used as the base for more advanced techniques.
 
 ### 4. Stacking and Ensemble Techniques
-To further enhance the predictive performance, we employed **stacking** as an ensemble method. By combining the predictions of multiple models (including CatBoost, LightGBM, XGBoost, etc) into a meta-model, we were able to leverage the strengths of each model, resulting in a more robust and accurate final prediction.
+To further enhance the predictive performance, we employed **stacking** as an ensemble method. By combining the predictions of multiple models (including CatBoost, LightGBM, XGBoost, etc.) into a meta-model, we were able to leverage the strengths of each model, resulting in a more robust and accurate final prediction.
 
 ## Reference
 - Walter Reade, Ashley Chow. (2024). Binary Classification of Insurance Cross Selling . Kaggle. https://kaggle.com/competitions/playground-series-s4e7
