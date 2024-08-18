@@ -50,5 +50,3 @@ This course offers an in-depth exploration of key principles in deep learning:
    * [Batch normalization at test time](#batch-normalization-at-test-time)
    * [Softmax Regression](#softmax-regression)
    * [Training a Softmax classifier](#training-a-softmax-classifier)
-   * [Deep learning frameworks](#deep-learning-frameworks)
-   * [TensorFlow](#tensorflow)
