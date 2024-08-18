@@ -4,8 +4,8 @@
 
 - Single neuron == linear regression
 - Simple NN graph:
-  - ![](Images/Others/01.jpg)
-  - Image taken from [tutorialspoint.com](tutorialspoint.com)
+  ![](Images/Others/01.jpg)
+  Image taken from [tutorialspoint.com](tutorialspoint.com)
 - RELU stands for rectified linear unit is the most popular activation function right now that makes deep NNs train faster now.
 - Hidden layers predicts connection between inputs automatically, thats what deep learning is good at.
 - Deep NN consists of more hidden layers (Deeper layers)
