@@ -16,7 +16,7 @@ This course serves as an introduction to deep learning. You will learn:
 * [Introduction to Deep Learning](#introduction-to-deep-learning)
    * [What is a (Neural Network) NN?](#what-is-a-neural-network-nn)
    * [Supervised learning with neural networks](#supervised-learning-with-neural-networks)
-   * [Why is deep learning taking off?](#why-is-deep-learning-taking-off)
+   
 * [Neural Networks Basics](#neural-networks-basics)
    * [Binary classification](#binary-classification)
    * [Logistic regression](#logistic-regression)
@@ -31,7 +31,7 @@ This course serves as an introduction to deep learning. You will learn:
    * [Vectorization](#vectorization)
    * [Vectorizing Logistic Regression](#vectorizing-logistic-regression)
    * [Notes on Python and NumPy](#notes-on-python-and-numpy)
-   * [General Notes](#general-notes)
+     
 * [Shallow neural networks](#shallow-neural-networks)
    * [Neural Networks Overview](#neural-networks-overview)
    * [Neural Network Representation](#neural-network-representation)
