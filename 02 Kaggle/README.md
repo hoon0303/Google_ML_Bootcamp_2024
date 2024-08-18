@@ -2,6 +2,9 @@
 # Binary Classification of Insurance Cross Selling(Playground Series - S4E7, Top 1%)
 
 ## Overview [[Kaggle]](https://www.kaggle.com/competitions/playground-series-s4e7/overview)
+
+![Kaggle](Kaggle.PNG)
+
 ### Goal
 > The objective of this competition is to predict which customers respond positively to an automobile insurance offer.
 ### Timeline
