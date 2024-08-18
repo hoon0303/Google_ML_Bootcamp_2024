@@ -59,5 +59,11 @@ We evaluated the performance of each model using the **ROC AUC** score as the pr
 ### 4. Stacking and Ensemble Techniques
 To further enhance the predictive performance, we employed **stacking** as an ensemble method. By combining the predictions of multiple models (including CatBoost, LightGBM, XGBoost, etc.) into a meta-model, we were able to leverage the strengths of each model, resulting in a more robust and accurate final prediction.
 
-## Reference
-- Walter Reade, Ashley Chow. (2024). Binary Classification of Insurance Cross Selling . Kaggle. https://kaggle.com/competitions/playground-series-s4e7
+## References
+
+- Reade, W., & Chow, A. (2024). Binary Classification of Insurance Cross Selling. Kaggle. Retrieved from https://kaggle.com/competitions/playground-series-s4e7
+
+- Khosravi, B. T., & others. (2022). Why do tree-based models still outperform deep learning on tabular data? *arXiv preprint arXiv:2207.08815*. Retrieved from https://arxiv.org/abs/2207.08815
+
+- Somekh, D., & others. (2021). Tabular data: Deep learning is not all you need. *Future Generation Computer Systems, 133*, 75-80. Retrieved from https://www.sciencedirect.com/science/article/abs/pii/S1566253521002360
+
