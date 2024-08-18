@@ -51,6 +51,9 @@ We experimented with a variety of machine learning models:
 - **XGBoost**
 - **Random Forest**
 
+### 3. K-Fold Cross-Validation
+To ensure that our models generalized well to unseen data, we utilized **K-fold cross-validation**. This approach effectively prevented overfitting and provided a robust evaluation of the model's performance.
+
 ### 3. Model Evaluation and Selection
 We evaluated the performance of each model using the **ROC AUC** score as the primary metric. After comparing various models, **CatBoost** and **XGBoost** showed the best performance. These models were further fine-tuned through hyperparameter optimization and used as the base for more advanced techniques.
 
