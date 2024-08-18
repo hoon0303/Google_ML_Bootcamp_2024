@@ -58,3 +58,6 @@ We evaluated the performance of each model using the **ROC AUC** score as the pr
 
 ### 4. Stacking and Ensemble Techniques
 To further enhance the predictive performance, we employed **stacking** as an ensemble method. By combining the predictions of multiple models (including CatBoost, LightGBM, XGBoost, etc) into a meta-model, we were able to leverage the strengths of each model, resulting in a more robust and accurate final prediction.
+
+## Reference
+- Walter Reade, Ashley Chow. (2024). Binary Classification of Insurance Cross Selling . Kaggle. https://kaggle.com/competitions/playground-series-s4e7
