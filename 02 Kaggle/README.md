@@ -8,7 +8,29 @@
 ### Goal
 > The objective of this competition is to predict which customers respond positively to an automobile insurance offer.
 
-## Methodologies We Applied
+
+
+### Timeline
+- Start Date - July 1, 2024
+- Entry Deadline - Same as the Final Submission Deadline
+- Team Merger Deadline - Same as the Final Submission Deadline
+- Final Submission Deadline - July 31, 2024
+
+### Evaluation
+Submissions are evaluated using area under the ROC curve using the predicted probabilities and the ground truth targets.
+
+### Submission File
+For each `id` row in the test set, you must predict the probability of the target, `Response`. The file should contain a header and have the following format:
+
+```bash
+id, Response
+11504798, 0.5
+11504799, 0.5
+11504800, 0.5
+etc.
+```
+
+## Methodology
 
 ### 1. Data Preprocessing and Encoding Techniques
 
@@ -34,23 +56,3 @@ We evaluated the performance of each model using the **ROC AUC** score as the pr
 
 ### 4. Stacking and Ensemble Techniques
 To further enhance the predictive performance, we employed **stacking** as an ensemble method. By combining the predictions of multiple models (including CatBoost, LightGBM, XGBoost, etc) into a meta-model, we were able to leverage the strengths of each model, resulting in a more robust and accurate final prediction.
-
-### Timeline
-- Start Date - July 1, 2024
-- Entry Deadline - Same as the Final Submission Deadline
-- Team Merger Deadline - Same as the Final Submission Deadline
-- Final Submission Deadline - July 31, 2024
-
-### Evaluation
-Submissions are evaluated using area under the ROC curve using the predicted probabilities and the ground truth targets.
-
-### Submission File
-For each `id` row in the test set, you must predict the probability of the target, `Response`. The file should contain a header and have the following format:
-
-```bash
-id, Response
-11504798, 0.5
-11504799, 0.5
-11504800, 0.5
-etc.
-```
