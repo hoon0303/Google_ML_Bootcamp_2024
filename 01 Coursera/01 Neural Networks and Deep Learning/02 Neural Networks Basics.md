@@ -206,17 +206,3 @@
   ```
 
 - Gradient descent converges faster after normalization of the input matrices.
-
-### General Notes
-
-- The main steps for building a Neural Network are:
-  - Define the model structure (such as number of input features and outputs)
-  - Initialize the model's parameters.
-  - Loop.
-    - Calculate current loss (forward propagation)
-    - Calculate current gradient (backward propagation)
-    - Update parameters (gradient descent)
-- Preprocessing the dataset is important.
-- Tuning the learning rate (which is an example of a "hyperparameter") can make a big difference to the algorithm.
-- [kaggle.com](kaggle.com) is a good place for datasets and competitions.
-- [Pieter Abbeel](https://www2.eecs.berkeley.edu/Faculty/Homepages/abbeel.html) is one of the best in deep reinforcement learning.
