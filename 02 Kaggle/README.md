@@ -3,7 +3,7 @@
 
 ## Overview [[Kaggle]](https://www.kaggle.com/competitions/playground-series-s4e7/overview)
 
-![Kaggle](assets/01_Kaggle.PNG)
+![Kaggle](Kaggle.PNG)
 
 ### Goal
 > The objective of this competition is to predict which customers respond positively to an automobile insurance offer.
