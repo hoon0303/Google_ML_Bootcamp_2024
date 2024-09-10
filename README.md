@@ -34,5 +34,5 @@ Google ML Bootcamp 2024에 함께 참여한 MLB 회원들과 학습한 지식과
 - Part 2. [Kaggle](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/02%20Kaggle)
   - Binary Classification of Insurance Cross Selling (Playground Series S4E7) Top 1% [🔗](https://www.kaggle.com/competitions/playground-series-s4e7/leaderboard)
 - Part 3. [Gemma Sprint](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/03%20Gemma%20Sprint)
-  - Project
+  - Squid Game Chatbot Enhanced with Gemma Fine-Tuning
 
