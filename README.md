@@ -31,7 +31,7 @@ Google ML Bootcamp 2024에 함께 참여한 MLB 회원들과 학습한 지식과
   - [Structuring Machine Learning Projects](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/01%20Coursera/03%20Structuring%20machine%20learning%20projects)
   - [Convolutional Neural Networks](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/01%20Coursera/04%20Convolutional%20Neural%20Networks)
   - [Sequence Models](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/01%20Coursera/05%20Sequence%20Models)
-- Part 2. [Kaggle](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/02%20Kaggle)
+- Part 2. [Kaggle Competitions](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/02%20Kaggle)
   - LLM 20 Questions (Featured Simulation Competition) - Silver Medal [🔗](https://www.kaggle.com/competitions/llm-20-questions/leaderboard)
   - Binary Classification of Insurance Cross Selling (Playground Series S4E7) - Top 1% [🔗](https://www.kaggle.com/competitions/playground-series-s4e7/leaderboard)
 - Part 3. [Gemma Sprint Program](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/03%20Gemma%20Sprint)
