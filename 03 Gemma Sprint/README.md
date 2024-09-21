@@ -16,7 +16,7 @@ Gemma, developed in collaboration between Google DeepMind and various Google dep
 - Hardware Optimization: It is optimized for NVIDIA GPUs and Google Cloud TPUs
 
 ## Overview [[Kaggle Notebook]](https://www.kaggle.com/code/hoon0303/squid-game-chatbot-enhanced-with-gemma-fine-tuning)
-We use Gemma 2b-it and Hugging Face packages to build a specialized Gemma model for answering questions based on reviews of Squid Game!
+In Kaggle Notebook, We use Gemma 2b-it and Hugging Face packages to build a specialized Gemma model for answering questions based on reviews of Squid Game!
 
 1. Extracting knowledge from review data
 
@@ -26,6 +26,9 @@ We use Gemma 2b-it and Hugging Face packages to build a specialized Gemma model 
 
 4. Save the trained LoRA weights and merge them back into Gemma
 
+<br>
+
+> This project was developed by Kaggle Notebook. For more information, visit [Kaggle Notebook](https://www.kaggle.com/code/hoon0303/squid-game-chatbot-enhanced-with-gemma-fine-tuning).
 ## Fine-Tune the Gemma
 
 ``` python
