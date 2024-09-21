@@ -34,6 +34,6 @@ Google ML Bootcamp 2024에 함께 참여한 MLB 회원들과 학습한 지식과
 - Part 2. [Kaggle](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/02%20Kaggle)
   - LLM 20 Questions (Featured Simulation Competition) - Silver Medal [🔗](https://www.kaggle.com/competitions/llm-20-questions/leaderboard)
   - Binary Classification of Insurance Cross Selling (Playground Series S4E7) - Top 1% [🔗](https://www.kaggle.com/competitions/playground-series-s4e7/leaderboard)
-- Part 3. [Gemma Sprint](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/03%20Gemma%20Sprint)
+- Part 3. [Gemma Sprint Program](https://github.com/hoon0303/Google_ML_Bootcamp_2024/tree/main/03%20Gemma%20Sprint)
   - Squid Game Chatbot Enhanced with Gemma Fine-Tuning
 
