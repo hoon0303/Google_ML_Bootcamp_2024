@@ -3,7 +3,7 @@
   <img src="Gemma.PNG" alt="Group Image" />
 </div> -->
 
-# Gemma 
+# Squid Game Chatbot Enhanced with Gemma Fine-Tuning 
 
 Gemma, developed in collaboration between Google DeepMind and various Google departments, is a lightweight open model built upon the core technology and research of Gemini.
 
@@ -15,7 +15,7 @@ Gemma, developed in collaboration between Google DeepMind and various Google dep
 
 - Hardware Optimization: It is optimized for NVIDIA GPUs and Google Cloud TPUs
 
-## Overview 
+## Overview [[Kaggle Notebook]](https://www.kaggle.com/code/hoon0303/squid-game-chatbot-enhanced-with-gemma-fine-tuning)
 We use Gemma 2b-it and Hugging Face packages to build a specialized Gemma model for answering questions based on reviews of Squid Game!
 
 1. Extracting knowledge from review data
@@ -64,6 +64,7 @@ training_arguments = TrainingArguments(
     report_to="tensorboard",
 )
 ```
+## Fine-Tuning Results: Squid Game Summarization and Comparison
 ### Task 1 : Summarize and explain Squid Game
 
 #### Before Fine-Tuning
